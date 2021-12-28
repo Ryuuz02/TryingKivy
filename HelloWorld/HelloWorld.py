@@ -2,6 +2,7 @@
 import kivy
 from kivy.app import App
 from kivy.uix.label import Label
+# !------- This is the from the tutorial on the kivy website with slight modification, this is not my own work --------!
 
 # Requires an up to date version of kivy
 kivy.require("2.0.0")

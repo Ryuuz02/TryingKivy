@@ -6,6 +6,8 @@ from kivy.app import App
 from kivy.properties import NumericProperty, ReferenceListProperty, ObjectProperty
 from kivy.vector import Vector
 
+# !------- This is the from the tutorial on the kivy website with slight modification, this is not my own work --------!
+
 # Only works if kivy is up to date
 kivy.require("2.0.0")
 

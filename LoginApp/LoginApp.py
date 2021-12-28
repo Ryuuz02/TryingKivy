@@ -5,6 +5,8 @@ from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 
+# !------- This is the from the tutorial on the kivy website with slight modification, this is not my own work --------!
+
 # Require most recent kivy version
 kivy.require("2.0.0")
 

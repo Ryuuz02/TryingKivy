@@ -5,6 +5,9 @@ from kivy.app import App
 from kivy.uix.widget import Widget
 from kivy.uix.button import Button
 from kivy.graphics import Color, Ellipse, Line
+
+# !------- This is the from the tutorial on the kivy website with slight modification, this is not my own work --------!
+
 # Ensure correct kivy version
 kivy.require("2.0.0")
 
